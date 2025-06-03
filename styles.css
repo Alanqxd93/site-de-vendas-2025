@@ -1,0 +1,11 @@
+.sobre, .contato {
+  padding: 40px 0;
+  background: #f0f0f0;
+}
+
+footer {
+  background: #9B4DFF;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
